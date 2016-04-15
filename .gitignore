@@ -1,3 +1,4 @@
 node_modules/
-t2/
+t2/*
 !t2/.keep
+!t2/test-file.txt
